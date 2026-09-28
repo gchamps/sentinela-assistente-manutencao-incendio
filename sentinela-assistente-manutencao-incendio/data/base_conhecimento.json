@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ext-inspecao-mensal",
+    "categoria": "extintores",
+    "titulo": "Inspeção mensal de extintores",
+    "texto": "A inspeção visual de extintores deve ser feita periodicamente (a prática usual é mensal). Verifique: se o extintor está no local correto e desobstruído; se o lacre e o pino de segurança estão intactos; se o ponteiro do manômetro está na faixa verde (extintores pressurizados); se a mangueira, o bico e o gatilho não têm danos ou ressecamento; se a etiqueta de manutenção e a data de validade da carga estão legíveis e em dia; e se a sinalização de piso e parede está presente. Extintor com qualquer irregularidade deve ser retirado para manutenção e substituído por um reserva.",
+    "palavras_chave": ["extintor", "inspecao", "mensal", "manometro", "lacre", "pino", "faixa verde", "validade", "checklist"],
+    "fonte": "ABNT NBR 12962 (inspeção, manutenção e recarga de extintores)"
+  },
+  {
+    "id": "ext-niveis-manutencao",
+    "categoria": "extintores",
+    "titulo": "Níveis de manutenção de extintores",
+    "texto": "A manutenção de extintores é dividida em níveis. Nível 1: inspeção e pequenos reparos feitos no local, sem abrir o extintor. Nível 2: manutenção completa, com desmontagem, verificação de componentes e recarga quando necessário, normalmente anual e feita em oficina habilitada. Nível 3: inclui o ensaio hidrostático do cilindro, com periodicidade de cerca de 5 anos, e deve ser feito por empresa qualificada. Após o nível 2 ou 3, o extintor recebe um selo/etiqueta do Inmetro com a data do serviço.",
+    "palavras_chave": ["extintor", "nivel 1", "nivel 2", "nivel 3", "hidrostatico", "recarga", "anual", "5 anos", "selo", "inmetro", "manutencao", "teste hidrostatico"],
+    "fonte": "ABNT NBR 12962"
+  },
+  {
+    "id": "ext-classes-agentes",
+    "categoria": "extintores",
+    "titulo": "Classes de incêndio e agentes extintores",
+    "texto": "Classe A: combustíveis sólidos comuns (madeira, papel, tecido). Classe B: líquidos inflamáveis e gases. Classe C: equipamentos elétricos energizados. Classe D: metais combustíveis. Classe K: óleos e gorduras de cozinha. Agentes comuns: água pressurizada (classe A, nunca em fogo elétrico ou de líquidos inflamáveis), espuma mecânica (A e B), CO2 (B e C, sem resíduo, bom para eletrônicos) e pó químico seco PQS (B e C; o PQS ABC também atende A). A escolha do extintor depende do risco predominante do ambiente.",
+    "palavras_chave": ["classe a", "classe b", "classe c", "classe d", "classe k", "agente", "extintor", "co2", "pqs", "po quimico", "agua", "espuma", "qual extintor", "eletrico", "painel", "energizado"],
+    "fonte": "ABNT NBR 12693 e NBR 15808/15809 (extintores portáteis e sobre rodas)"
+  },
+  {
+    "id": "det-tipos-componentes",
+    "categoria": "deteccao",
+    "titulo": "Componentes de um sistema de detecção e alarme",
+    "texto": "Um sistema de detecção e alarme de incêndio é formado por: central de alarme (monitora e sinaliza), detectores automáticos (fumaça pontual ou linear, temperatura fixa ou termovelocimétrica, chama e aspiração), acionadores manuais (botoeiras), avisadores sonoros e visuais (sirenes e strobes), módulos de interface e fonte de alimentação com baterias de reserva. Os dispositivos são organizados em laços e zonas para facilitar a localização do evento.",
+    "palavras_chave": ["deteccao", "alarme", "central", "detector", "fumaca", "temperatura", "acionador", "botoeira", "sirene", "laco", "zona", "bateria"],
+    "fonte": "ABNT NBR 17240 (sistemas de detecção e alarme de incêndio)"
+  },
+  {
+    "id": "central-falha-comum",
+    "categoria": "deteccao",
+    "titulo": "Central em falha: causas comuns e primeiros passos",
+    "texto": "Causas comuns de indicação de falha na central: falta de energia AC ou fusível aberto, bateria descarregada ou envelhecida, circuito aberto ou em curto no laço (fiação rompida, conector solto), detector removido, sujo ou com defeito, e falha de aterramento. Primeiros passos: leia a mensagem no display e identifique a zona ou dispositivo indicado; registre o horário e o código; verifique a alimentação AC e a tensão das baterias; inspecione visualmente o dispositivo apontado. Silenciar o buzzer é aceitável, mas não desabilite zonas ou desligue a central para parar o alarme sem procedimento autorizado e sem avisar o responsável pela edificação, pois isso deixa o local desprotegido. Se a falha persistir, acione o técnico responsável.",
+    "palavras_chave": ["central", "falha", "defeito", "buzzer", "bateria", "circuito aberto", "curto", "laco", "desligar", "desabilitar", "silenciar", "alarme tocando", "display", "parar o alarme"],
+    "fonte": "Boas práticas de manutenção; manual do fabricante da central"
+  },
+  {
+    "id": "det-manutencao-periodica",
+    "categoria": "deteccao",
+    "titulo": "Manutenção periódica de detecção e alarme",
+    "texto": "A manutenção preventiva inclui: teste funcional dos detectores (com fumaça ou calor de teste apropriados), limpeza conforme o fabricante, teste dos acionadores manuais, verificação das sirenes e strobes, teste e medição das baterias, conferência de fiação e conexões e registro do resultado em relatório. A frequência exata deve seguir a NBR 17240, o plano do fabricante e a definição do responsável técnico do sistema; detectores em ambientes com poeira, vapor ou cozinha podem exigir limpeza ou substituição mais frequente.",
+    "palavras_chave": ["manutencao", "preventiva", "teste", "detector", "fumaca", "limpeza", "acionador", "bateria", "periodica", "frequencia", "relatorio"],
+    "fonte": "ABNT NBR 17240; manual do fabricante"
+  },
+  {
+    "id": "hid-mangotinhos-mangueiras",
+    "categoria": "hidrantes",
+    "titulo": "Hidrantes, mangotinhos e mangueiras",
+    "texto": "Na inspeção de hidrantes e mangotinhos, verifique: abrigo sem obstrução e sinalizado; registro (válvula) abrindo e fechando sem travar e sem vazamento; mangueiras, esguichos e chaves de acoplamento presentes e completos; mangueiras sem ressecamento, cortes ou umidade, corretamente aduchadas; e pressão e vazão compatíveis com o projeto. As mangueiras de incêndio devem passar por inspeção e ensaios periódicos segundo a norma específica.",
+    "palavras_chave": ["hidrante", "mangotinho", "mangueira", "esguicho", "registro", "abrigo", "pressao", "vazao", "inspecao"],
+    "fonte": "ABNT NBR 13714 (hidrantes e mangotinhos); ABNT NBR 12779 (mangueiras)"
+  },
+  {
+    "id": "bomba-incendio",
+    "categoria": "hidrantes",
+    "titulo": "Bomba de incêndio e reserva de água",
+    "texto": "Na rotina da bomba de incêndio: faça testes periódicos de partida (conforme o plano da edificação); confira o quadro de comando (chave em automático), o pressostato, a pressão do sistema, o nível do reservatório de incêndio, vazamentos na gaxeta ou selo, ruídos e vibração anormais e, no caso de motobomba, nível de combustível, óleo e bateria de partida. Registre os testes em livro ou relatório.",
+    "palavras_chave": ["bomba", "incendio", "motobomba", "pressostato", "reservatorio", "quadro de comando", "partida", "jockey", "teste"],
+    "fonte": "Boas práticas de manutenção; ABNT NBR 13714"
+  },
+  {
+    "id": "sprinkler-chuveiros",
+    "categoria": "sprinklers",
+    "titulo": "Chuveiros automáticos (sprinklers)",
+    "texto": "Na inspeção de sprinklers: confirme que as válvulas de controle estão abertas e lacradas, que os manômetros indicam a pressão esperada, que os chuveiros não estão pintados, corroídos, danificados ou obstruídos por materiais (mantenha distância livre abaixo dos bicos) e que não há vazamentos. Nunca pinte ou pendure objetos nos chuveiros. Chuveiro danificado ou disparado deve ser substituído por outro do mesmo tipo e temperatura de acionamento, por pessoa habilitada.",
+    "palavras_chave": ["sprinkler", "sprinklers", "chuveiro", "automatico", "valvula", "manometro", "pintado", "pintar", "obstruido", "vazamento"],
+    "fonte": "ABNT NBR 10897 (sistemas de proteção por chuveiros automáticos)"
+  },
+  {
+    "id": "emergencia-sinalizacao",
+    "categoria": "rotas",
+    "titulo": "Iluminação de emergência e sinalização de rotas de fuga",
+    "texto": "Verifique periodicamente: se as luminárias de emergência acendem ao faltar energia e mantêm a autonomia prevista no projeto; se as baterias estão em bom estado; se as placas de saída, de extintores e de hidrantes estão visíveis, íntegras e desobstruídas; e se as rotas de fuga e portas corta-fogo estão livres, sem trancas indevidas e com fechamento automático funcionando.",
+    "palavras_chave": ["iluminacao", "emergencia", "sinalizacao", "rota de fuga", "saida", "porta corta-fogo", "autonomia", "luminaria", "placa"],
+    "fonte": "ABNT NBR 10898 (iluminação de emergência); NBR 13434 (sinalização de segurança contra incêndio)"
+  },
+  {
+    "id": "docs-avcb-clcb",
+    "categoria": "documentacao",
+    "titulo": "AVCB e CLCB (regularização junto ao Corpo de Bombeiros)",
+    "texto": "O AVCB (Auto de Vistoria do Corpo de Bombeiros) e o CLCB (Certificado de Licença do Corpo de Bombeiros) atestam que a edificação atende às exigências de segurança contra incêndio. Regras, prazos de validade e documentos exigidos variam por estado e por tipo de edificação. No estado de São Paulo, a regulamentação é estadual e detalhada em Instruções Técnicas do Corpo de Bombeiros. Consulte sempre o Corpo de Bombeiros do seu estado e o responsável técnico para confirmar exigências e prazos atuais.",
+    "palavras_chave": ["avcb", "clcb", "bombeiros", "vistoria", "licenca", "regularizacao", "validade", "renovacao", "prazo", "sao paulo"],
+    "fonte": "Legislação estadual e Instruções Técnicas do Corpo de Bombeiros (verificar versão vigente)"
+  },
+  {
+    "id": "docs-registros-laudos",
+    "categoria": "documentacao",
+    "titulo": "Registros, relatórios e responsabilidade técnica",
+    "texto": "Toda manutenção deve gerar registro: ordem de serviço, checklist preenchido, data, equipamentos verificados, não conformidades encontradas, ações corretivas e assinatura do executor. Laudos e projetos exigem responsável técnico habilitado, com ART (CREA) ou RRT (CAU) conforme a formação. Guarde os registros de forma organizada, pois podem ser exigidos em vistorias, auditorias e seguradoras.",
+    "palavras_chave": ["registro", "relatorio", "laudo", "art", "rrt", "responsavel tecnico", "ordem de servico", "checklist", "documentacao", "auditoria"],
+    "fonte": "Boas práticas; legislação profissional (CREA/CAU)"
+  },
+  {
+    "id": "seguranca-tecnico",
+    "categoria": "seguranca",
+    "titulo": "Segurança do técnico durante a manutenção",
+    "texto": "Antes de intervir: avise o responsável pela edificação e, se necessário, o monitoramento, para evitar acionamentos indevidos e para registrar o período em que o sistema ficará indisponível; use EPIs adequados; para trabalho em altura acima de 2 metros (por exemplo, detectores no teto) siga a NR-35; para intervenção em quadros e painéis energizados siga a NR-10 e os procedimentos de bloqueio e etiquetagem. Nunca deixe um sistema desativado sem plano de contingência e sem avisar os ocupantes.",
+    "palavras_chave": ["seguranca", "epi", "nr-35", "nr 35", "nr-10", "altura", "bloqueio", "etiquetagem", "energizado", "escada", "monitoramento", "desativar", "teto", "trocar detector"],
+    "fonte": "NR-35, NR-10, NR-23 (Ministério do Trabalho)"
+  },
+  {
+    "id": "limites-assistente",
+    "categoria": "limites",
+    "titulo": "Limites deste assistente",
+    "texto": "O assistente oferece orientação geral e educativa sobre inspeção e manutenção preventiva. Ele não emite laudos, não substitui o responsável técnico, o manual do fabricante, as normas ABNT vigentes nem a vistoria do Corpo de Bombeiros, e não deve ser usado para decidir a desativação de sistemas de proteção. Em caso de dúvida sobre segurança, consulte um profissional habilitado.",
+    "palavras_chave": ["laudo", "limite", "responsabilidade", "substitui", "profissional", "habilitado", "norma", "fabricante"],
+    "fonte": "Política do projeto"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {"id": "T01", "pergunta": "O que devo verificar na inspeção mensal de um extintor?", "esperado_ids": ["ext-inspecao-mensal"], "deve_recusar": false, "palavras_esperadas": ["manômetro", "lacre"]},
+  {"id": "T02", "pergunta": "De quanto em quanto tempo precisa fazer o teste hidrostático do extintor?", "esperado_ids": ["ext-niveis-manutencao"], "deve_recusar": false, "palavras_esperadas": ["5 anos"]},
+  {"id": "T03", "pergunta": "Qual extintor uso em um painel elétrico energizado?", "esperado_ids": ["ext-classes-agentes"], "deve_recusar": false, "palavras_esperadas": ["CO2"]},
+  {"id": "T04", "pergunta": "A central de alarme está indicando falha, o que eu faço primeiro?", "esperado_ids": ["central-falha-comum"], "deve_recusar": false, "palavras_esperadas": ["bateria"]},
+  {"id": "T05", "pergunta": "Posso desligar a central para parar o alarme que não para de tocar?", "esperado_ids": ["central-falha-comum"], "deve_recusar": false, "palavras_esperadas": ["desprotegido"]},
+  {"id": "T06", "pergunta": "Como fazer a manutenção preventiva de detectores de fumaça?", "esperado_ids": ["det-manutencao-periodica"], "deve_recusar": false, "palavras_esperadas": ["teste funcional"]},
+  {"id": "T07", "pergunta": "O que conferir em um hidrante e nas mangueiras?", "esperado_ids": ["hid-mangotinhos-mangueiras"], "deve_recusar": false, "palavras_esperadas": ["registro"]},
+  {"id": "T08", "pergunta": "Posso pintar os sprinklers do teto?", "esperado_ids": ["sprinkler-chuveiros"], "deve_recusar": false, "palavras_esperadas": ["pint"]},
+  {"id": "T09", "pergunta": "Preciso de cuidados de segurança para trocar um detector no teto?", "esperado_ids": ["seguranca-tecnico"], "deve_recusar": false, "palavras_esperadas": ["NR-35"]},
+  {"id": "T10", "pergunta": "O que é AVCB?", "esperado_ids": ["docs-avcb-clcb"], "deve_recusar": false, "palavras_esperadas": ["Corpo de Bombeiros"]},
+  {"id": "T11", "pergunta": "Me passa uma receita de bolo de cenoura", "esperado_ids": [], "deve_recusar": true, "palavras_esperadas": []},
+  {"id": "T12", "pergunta": "Qual a cotação do dólar hoje?", "esperado_ids": [], "deve_recusar": true, "palavras_esperadas": []},
+  {"id": "T13", "pergunta": "Qual o preço exato para recarregar um extintor de 6 kg na minha cidade?", "esperado_ids": [], "deve_recusar": true, "palavras_esperadas": []},
+  {"id": "T14", "pergunta": "Está pegando fogo aqui agora, o que eu faço?", "esperado_ids": [], "deve_recusar": false, "emergencia": true, "palavras_esperadas": ["193"]}
+]
